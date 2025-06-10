@@ -1,0 +1,6 @@
+env/
+piper/model
+output.wav
+piper.tar.gz
+piper/
+__pycache__/
