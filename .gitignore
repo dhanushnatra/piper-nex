@@ -1,6 +1,9 @@
 env/
-piper/model
+piper_nex/piper/model
 output.wav
-piper.tar.gz
-piper/
-__pycache__/
+build/
+
+piper_nex/piper.tar.gz
+piper_nex/piper/
+piper_nex/__pycache__/
+piper_Nex.egg-info/
