@@ -16,6 +16,7 @@ setup(
     packages=find_packages(),
     install_requires=requirements,
     include_package_data=True,
+    package_data={"piper_nex":["voices.json"]},
     python_requires=">=3.7",
     classifiers=[
         "Programming Language :: Python :: 3",
